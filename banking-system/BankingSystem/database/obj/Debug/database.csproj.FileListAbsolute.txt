@@ -1,0 +1,7 @@
+C:\Users\pgoel\banking-system\BankingSystem\database\bin\Debug\database.dll.config
+C:\Users\pgoel\banking-system\BankingSystem\database\bin\Debug\database.dll
+C:\Users\pgoel\banking-system\BankingSystem\database\bin\Debug\database.pdb
+C:\Users\pgoel\banking-system\BankingSystem\database\obj\Debug\database.csprojResolveAssemblyReference.cache
+C:\Users\pgoel\banking-system\BankingSystem\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\banking-system\BankingSystem\database\obj\Debug\database.dll
+C:\Users\pgoel\banking-system\BankingSystem\database\obj\Debug\database.pdb
