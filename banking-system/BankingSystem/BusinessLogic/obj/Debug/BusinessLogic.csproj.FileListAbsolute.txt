@@ -7,3 +7,14 @@ C:\Users\pgoel\banking-system\BankingSystem\BusinessLogic\bin\Debug\database.dll
 C:\Users\pgoel\banking-system\BankingSystem\BusinessLogic\bin\Debug\database.pdb
 C:\Users\pgoel\banking-system\BankingSystem\BusinessLogic\bin\Debug\database.dll.config
 C:\Users\pgoel\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\database.dll
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\database.pdb
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\database.dll.config
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\Entities.dll
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\Entities.pdb

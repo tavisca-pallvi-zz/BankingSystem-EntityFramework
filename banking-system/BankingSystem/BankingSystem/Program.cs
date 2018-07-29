@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using AccountDetails;
-using AccountHolders;
+
 using database;
 using BusinessLogic;
 
@@ -14,111 +13,71 @@ namespace BankingSystem
     class Program
     {
         static void Main(string[] args)
-
-
         {
-            User user = new User();
-            //  Data ob = new Data();
+           
             Data d = new Data();
             d.Connect();
-            /*float amount;
-            int id = 0;
             int f = 1;
-            char c;
+           
+            int flag;
             while (f == 1)
-             {
-                 Console.WriteLine("Press 'y' to continue");
-                 c = Console.ReadKey().KeyChar;
-                 if (c == 'n')
-                 {
-                     f = 0;
-                     break;
-                 }
-                 Console.WriteLine("Press 'A' if you want to see Account Details \n Press 'S' if you want to search for an Account \n Press 'W' if you want to withdraw money \n  Press 'D' if you want to deposit mooney \n Press 'C' if you want to calculate interest");
-                 Console.WriteLine("Enter operation you want to perform");
-                 // char Case = Console.ReadKey().KeyChar;
-
-                 Console.WriteLine("Enter user id");
-                 id = Int32.Parse(Console.ReadLine());
-
-             */
-            Accountb acc = new Accountb();
-          //  acc.Add();
-            acc.Deposit();
-            /*switch (Case)
             {
-
-                case 'a'
-
-                  acc.Add();
+                Console.WriteLine("Press '1' to continue");
+                flag= Int32.Parse(Console.ReadLine());
+                if (flag==0)
+                {
+                    f = 0;
                     break;
-        }
-        */
-
-                // acc.Add();
-
-
-                /*
-
-                switch (Case)
+                }
+                Console.WriteLine("Press '1' if you want to see Add \n Press '2' if you want to deposit mooney\n  Press '3' if you want to withdraw money \n 0Press '4' if you want to calculate interest \n Press 5 to  searchdetails \n Press 6 to display accdetails");
+                    
+                Console.WriteLine("Enter operation you want to perform");
+                int ch;
+                ch= Int32.Parse(Console.ReadLine());
+                Accountb acc = new Accountb();
+        
+                switch (ch)
                 {
 
-                    case 'F':
-                        id = Int32.Parse(Console.ReadLine());
-                        int branch = Int32.Parse(Console.ReadLine());
-                        string accholder = Console.ReadLine();
-                        string str = Console.ReadLine();
-                        double bal = Convert.ToDouble(str);
-                        Account account = new Account(id, branch, accholder, bal);
-                        user.Add(account);
-                        Console.WriteLine("hello");
-                        break;
-                    case 'A':
+                    case 1:
 
-                        user.AccDetails(id);
+                        acc.Add();
                         break;
 
-                    case 'W':
-                        Console.WriteLine("Enter the amount to be withdrawn");
-                        amount = Int32.Parse(Console.ReadLine());
-                        user.WithrawMoney(id, amount);
+                    case 2:
+                        acc.Deposit();
                         break;
 
-                    case 'S':
+                    case 3:
+                        acc.Withdraw();
+                        break;
 
-                        Account acc = user.SearchAccount(id);
-                        if (acc != null)
-                            Console.WriteLine("User found");
+                    case 4:
+                        acc.CalculateInterest();
+                        break;
+                    case 5:
+
+                    int t=  acc.Search();
+                        if(t==-1)
+                        Console.WriteLine("user dont exists");
                         else
-                            Console.WriteLine("User NOT found");
-
+                        Console.WriteLine("user exists");
                         break;
 
-                    case 'D':
+                    case 6:
 
-                        Console.WriteLine("Enter the amount to be Deposit");
-                        amount = Int32.Parse(Console.ReadLine());
-                        user.DepositAmount(id, amount);
-                        break;
-
-                    case 'C':
-
-                        Console.WriteLine("Enter the time for which interest to be calculated");
-                        user.CalculateInterest(id);
+                        acc.Display();
                         break;
 
 
                 }
-            }
-            Console.ReadLine();
 
+                Console.ReadLine();
 
-        }
+              }
 
-    */
-
-            }
-        }
+        }   
+    }
 }
 
 
