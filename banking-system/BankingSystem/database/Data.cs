@@ -10,7 +10,7 @@ using Entities;
 
 namespace database
 {
-    public class Data
+    public class Data : Idbinterface
     {
         static SqlConnection conn = new SqlConnection();
         public void Connect() {

@@ -12,9 +12,16 @@ C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\Busine
 C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\database.dll
 C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\database.pdb
 C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\database.dll.config
-C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
 C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
 C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\Entities.dll
 C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\Entities.pdb
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\Entities.dll.config
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\pgoel\Desktop\git\bankingsystemdATA\banking-system\BankingSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
