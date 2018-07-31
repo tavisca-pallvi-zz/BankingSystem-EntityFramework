@@ -17,12 +17,13 @@ namespace database
 
             // conn= new SqlConnection(ConfigurationManager.ConnectionStrings["connstring"].ConnectionString);
 
-            conn.ConnectionString = @"Data Source=TAVDESK153;Initial Catalog=Accountdb;Integrated Security=true";
+            conn.ConnectionString = @"Data Source=TAVDESK013;Initial Catalog=Accountdb;Integrated Security=true";
 
 
             try
             {
                 conn.Open();
+                Console.WriteLine("connection established");
             }
             catch (Exception ex)
             {
